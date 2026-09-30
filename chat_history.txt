@@ -1,0 +1,7 @@
+[2026-09-30 10:06:37] You: hi
+[2026-09-30 10:07:58] You: hi
+[2026-09-30 10:07:58] Bot: Hi! How can I help you?
+[2026-09-30 10:08:06] You: giev me
+[2026-09-30 10:08:06] Bot: I'm not sure I understand. Try typing 'help'.
+[2026-09-30 10:08:40] You: goodbyr
+[2026-09-30 10:10:01] You: hi
